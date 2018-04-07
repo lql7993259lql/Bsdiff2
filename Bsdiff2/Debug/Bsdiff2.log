@@ -1,0 +1,11 @@
+﻿  randtable.c
+  huffman.c
+  decompress.c
+  crctable.c
+  compress.c
+  bzlib.c
+  blocksort.c
+  Generating Code...
+  bsdiff.cpp
+  Bsdiff2.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\Bsdiff2\Debug\Bsdiff2.dll
+  Bsdiff2.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\Bsdiff2\Debug\Bsdiff2.pdb (Partial PDB)
